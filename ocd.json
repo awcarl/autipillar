@@ -1,0 +1,25 @@
+{
+    "topic": "OCD",
+    "description": "Information about comorbid autism and OCD.",
+    "pages": [
+        {
+            "title": "Page Name 1",
+            "author": "Author or Website 1",
+            "summary": "Summary of content",
+            "URL": "https://phillipillarsgarden.com/"
+        },
+        {
+            "title": "Page Name 2",
+            "author": "Author or Website 2",
+            "summary": "Summary of content",
+            "URL": "https://phillipillarsgarden.com/"
+        },
+        {
+            "title": "Page Name 3",
+            "author": "Author or Website 3",
+            "summary": "Summary of content",
+            "URL": "https://phillipillarsgarden.com/"
+        }
+    ]
+}
+
